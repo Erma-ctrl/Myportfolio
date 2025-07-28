@@ -25,7 +25,7 @@ const Hero = () => {
           <Col lg={8}>
             <div className="mb-4">
               <Image
-                src="/photo_2025-05-17_23-48-02.jpg"
+                src="/profile.jpg"
                 alt="Ermias Filfile"
                 roundedCircle
                 className="profile-img mb-4"
